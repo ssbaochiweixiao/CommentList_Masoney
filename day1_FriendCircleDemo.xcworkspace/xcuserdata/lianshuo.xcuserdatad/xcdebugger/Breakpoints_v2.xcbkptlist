@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "day1_FriendCircleDemo/&#x4e5d;&#x5bab;&#x683c;/AC_FriendCircleCell.m"
+            timestampString = "606745777.419036"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "-setcellWithDic:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AC_FriendCircleCell setcellWithDic:]"
+                  moduleName = "day1_FriendCircleDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lianshuo/Desktop/000ProjectList/%E5%8D%9A%E5%AE%A2%E5%9B%ADdemo/day1_FriendCircleDemo/day1_FriendCircleDemo/%E4%B9%9D%E5%AE%AB%E6%A0%BC/AC_FriendCircleCell.m"
+                  timestampString = "606744280.491219"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "2157">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__38-[AC_FriendCircleCell setcellWithDic:]_block_invoke_2"
+                  moduleName = "day1_FriendCircleDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lianshuo/Desktop/000ProjectList/%E5%8D%9A%E5%AE%A2%E5%9B%ADdemo/day1_FriendCircleDemo/day1_FriendCircleDemo/%E4%B9%9D%E5%AE%AB%E6%A0%BC/AC_FriendCircleCell.m"
+                  timestampString = "606744280.493444"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "day1_FriendCircleDemo/&#x4e5d;&#x5bab;&#x683c;/AC_FriendCircleCell.m"
+            timestampString = "606745777.419104"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "239"
+            endingLineNumber = "239"
+            landmarkName = "-setReply:andContent:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AC_FriendCircleCell setReply:andContent:]"
+                  moduleName = "day1_FriendCircleDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lianshuo/Desktop/000ProjectList/%E5%8D%9A%E5%AE%A2%E5%9B%ADdemo/day1_FriendCircleDemo/day1_FriendCircleDemo/%E4%B9%9D%E5%AE%AB%E6%A0%BC/AC_FriendCircleCell.m"
+                  timestampString = "606745401.132967"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "239"
+                  endingLineNumber = "239"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__43-[AC_FriendCircleCell setReply:andContent:]_block_invoke"
+                  moduleName = "day1_FriendCircleDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lianshuo/Desktop/000ProjectList/%E5%8D%9A%E5%AE%A2%E5%9B%ADdemo/day1_FriendCircleDemo/day1_FriendCircleDemo/%E4%B9%9D%E5%AE%AB%E6%A0%BC/AC_FriendCircleCell.m"
+                  timestampString = "606745401.134874"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "239"
+                  endingLineNumber = "239"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "day1_FriendCircleDemo/Base/AC_BaseVC.m"
+            timestampString = "606745777.4191591"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "-setTableviewGroup:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AC_BaseVC setTableviewGroup:]"
+                  moduleName = "day1_FriendCircleDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lianshuo/Desktop/000ProjectList/%E5%8D%9A%E5%AE%A2%E5%9B%ADdemo/day1_FriendCircleDemo/day1_FriendCircleDemo/Base/AC_BaseVC.m"
+                  timestampString = "606745401.140954"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__31-[AC_BaseVC setTableviewGroup:]_block_invoke"
+                  moduleName = "day1_FriendCircleDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lianshuo/Desktop/000ProjectList/%E5%8D%9A%E5%AE%A2%E5%9B%ADdemo/day1_FriendCircleDemo/day1_FriendCircleDemo/Base/AC_BaseVC.m"
+                  timestampString = "606745401.142934"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "day1_FriendCircleDemo/Base/AC_BaseVC.m"
+            timestampString = "606745777.419205"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "-tableview"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "day1_FriendCircleDemo/Base/AC_BaseVC.m"
+            timestampString = "606745777.4192491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "-tableview"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
