@@ -78,10 +78,10 @@
 
     //设置约束 给不需要变化的部分设置约束
     [_headIMG mas_makeConstraints:^(MASConstraintMaker *make) {
-        make.top.mas_offset(15).priorityHigh();
+        make.top.mas_offset(15);
         make.left.mas_offset(15);
-        make.height.mas_offset(50);
-        make.width.mas_offset(50);
+        make.height.equalTo(@50);
+        make.width.equalTo(@50);
     }];
     _headIMG.layer.cornerRadius = 25;
     _headIMG.layer.masksToBounds = YES;
@@ -89,8 +89,8 @@
     [_nameL  mas_makeConstraints:^(MASConstraintMaker *make) {
         make.left.mas_equalTo(self.headIMG.mas_right).offset(15);
         make.right.mas_offset(-15);
-        make.height.mas_offset(50/2);
-        make.top.mas_equalTo(self.headIMG.mas_top).priorityHigh();
+        make.height.equalTo(@(50/2));
+        make.top.mas_equalTo(self.headIMG.mas_top);
     }];
     
     [_timeL mas_makeConstraints:^(MASConstraintMaker *make) {
@@ -175,7 +175,7 @@
     [_introL mas_remakeConstraints:^(MASConstraintMaker *make) {
         make.left.mas_equalTo(self.headIMG.mas_left);
         make.right.mas_equalTo(self.nameL.mas_right);
-        make.top.mas_equalTo(lastView.mas_bottom).offset(15).priorityHigh();
+        make.top.mas_equalTo(lastView.mas_bottom).offset(15);
     }];
     
     _bottimView = _introL;
@@ -211,16 +211,16 @@
             [img mas_remakeConstraints:^(MASConstraintMaker *make) {
                 make.left.mas_offset(x);
                 make.top.mas_offset(y);
-                make.height.mas_offset(w);
-                make.width.mas_offset(h);
+                make.height.equalTo(@(h));
+                make.width.equalTo(@(w));
                 make.bottom.mas_offset(0);
             }];
         }else{
             [img mas_remakeConstraints:^(MASConstraintMaker *make) {
                 make.left.mas_offset(x);
                 make.top.mas_offset(y);
-                make.height.mas_offset(w);
-                make.width.mas_offset(h);
+                make.height.equalTo(@(h));
+                make.width.equalTo(@(w));
             }];
         }
         
@@ -246,7 +246,7 @@
     [_replayL mas_remakeConstraints:^(MASConstraintMaker *make) {
         make.left.mas_offset(15);
         make.right.mas_offset(-15);
-        make.height.mas_offset(15);
+        make.height.equalTo(@15);
         make.top.mas_offset(10).priorityHigh();
     }];
     [_replyContent mas_remakeConstraints:^(MASConstraintMaker *make) {
