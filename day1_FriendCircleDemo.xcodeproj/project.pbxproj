@@ -12,7 +12,7 @@
 		5700468D2986736300C72911 /* ACAliceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5700468C2986736300C72911 /* ACAliceViewController.m */; };
 		5700469029867BFD00C72911 /* AC0000ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5700468F29867BFD00C72911 /* AC0000ViewController.m */; };
 		570046932986808C00C72911 /* AC666ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 570046922986808C00C72911 /* AC666ViewController.m */; };
-
+		570046992986849A00C72911 /* AC888ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 570046982986849A00C72911 /* AC888ViewController.m */; };
 		D6CE2B362429DB23009DDB89 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CE2B352429DB23009DDB89 /* AppDelegate.m */; };
 		D6CE2B392429DB23009DDB89 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D6CE2B382429DB23009DDB89 /* ViewController.m */; };
 		D6CE2B3C2429DB23009DDB89 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6CE2B3A2429DB23009DDB89 /* Main.storyboard */; };
@@ -55,7 +55,8 @@
 		5700468F29867BFD00C72911 /* AC0000ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AC0000ViewController.m; sourceTree = "<group>"; };
 		570046912986808C00C72911 /* AC666ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AC666ViewController.h; sourceTree = "<group>"; };
 		570046922986808C00C72911 /* AC666ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AC666ViewController.m; sourceTree = "<group>"; };
-
+		570046972986849A00C72911 /* AC888ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AC888ViewController.h; sourceTree = "<group>"; };
+		570046982986849A00C72911 /* AC888ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AC888ViewController.m; sourceTree = "<group>"; };
 		A5D8C3AFAB754F909E8C9346 /* Pods-day1_FriendCircleDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-day1_FriendCircleDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-day1_FriendCircleDemo/Pods-day1_FriendCircleDemo.release.xcconfig"; sourceTree = "<group>"; };
 		C6FC1293242A47BC009720B2 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 		D6CE2B312429DB23009DDB89 /* day1_FriendCircleDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = day1_FriendCircleDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -155,8 +156,9 @@
 				5700468C2986736300C72911 /* ACAliceViewController.m */,
 				570046912986808C00C72911 /* AC666ViewController.h */,
 				570046922986808C00C72911 /* AC666ViewController.m */,
-
 				5700468E29867BFD00C72911 /* AC0000ViewController.h */,
+				570046972986849A00C72911 /* AC888ViewController.h */,
+				570046982986849A00C72911 /* AC888ViewController.m */,
 				5700468F29867BFD00C72911 /* AC0000ViewController.m */,
 				D6CE2B722429DEA5009DDB89 /* Base */,
 				D6CE2B692429DDCE009DDB89 /* 九宫格 */,
@@ -381,6 +383,7 @@
 				D6CE2B392429DB23009DDB89 /* ViewController.m in Sources */,
 				570046932986808C00C72911 /* AC666ViewController.m in Sources */,
 				5700468D2986736300C72911 /* ACAliceViewController.m in Sources */,
+				570046992986849A00C72911 /* AC888ViewController.m in Sources */,
 				5700469029867BFD00C72911 /* AC0000ViewController.m in Sources */,
 				5700467229865A2800C72911 /* Test2ViewController.m in Sources */,
 				D6CE2B682429DB9C009DDB89 /* AC_BaseVC.m in Sources */,
