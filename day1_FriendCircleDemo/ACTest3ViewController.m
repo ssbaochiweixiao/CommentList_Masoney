@@ -1,23 +1,22 @@
 //
-//  Test2ViewController.m
+//  ACTest3ViewController.m
 //  day1_FriendCircleDemo
 //
 //  Created by ios_team on 2023/1/29.
 //  Copyright © 2023 Alice_ss. All rights reserved.
 //
 
-#import "Test2ViewController.h"
+#import "ACTest3ViewController.h"
 
-@interface Test2ViewController ()
+@interface ACTest3ViewController ()
 
 @end
 
-@implementation Test2ViewController
+@implementation ACTest3ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    // 注释2
 }
 
 /*
